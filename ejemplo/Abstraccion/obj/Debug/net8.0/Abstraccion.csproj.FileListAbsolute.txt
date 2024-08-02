@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\Abstraccion\bin\Debug\net8.0\Abstraccion.exe
+C:\Users\SENA\Documents\ejemplo\Abstraccion\bin\Debug\net8.0\Abstraccion.deps.json
+C:\Users\SENA\Documents\ejemplo\Abstraccion\bin\Debug\net8.0\Abstraccion.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\Abstraccion\bin\Debug\net8.0\Abstraccion.dll
+C:\Users\SENA\Documents\ejemplo\Abstraccion\bin\Debug\net8.0\Abstraccion.pdb
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.dll
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\refint\Abstraccion.dll
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.pdb
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\Abstraccion.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\Abstraccion\obj\Debug\net8.0\ref\Abstraccion.dll

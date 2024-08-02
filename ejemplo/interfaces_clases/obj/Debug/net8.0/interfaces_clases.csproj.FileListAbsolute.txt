@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\bin\Debug\net8.0\interfaces_clases.exe
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\bin\Debug\net8.0\interfaces_clases.deps.json
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\bin\Debug\net8.0\interfaces_clases.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\bin\Debug\net8.0\interfaces_clases.dll
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\bin\Debug\net8.0\interfaces_clases.pdb
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.dll
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\refint\interfaces_clases.dll
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.pdb
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\interfaces_clases.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\interfaces_clases\obj\Debug\net8.0\ref\interfaces_clases.dll

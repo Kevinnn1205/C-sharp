@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\bin\Debug\net8.0\encasuplamiento.exe
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\bin\Debug\net8.0\encasuplamiento.deps.json
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\bin\Debug\net8.0\encasuplamiento.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\bin\Debug\net8.0\encasuplamiento.dll
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\bin\Debug\net8.0\encasuplamiento.pdb
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.dll
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\refint\encasuplamiento.dll
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.pdb
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\encasuplamiento.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\encasuplamiento\obj\Debug\net8.0\ref\encasuplamiento.dll
