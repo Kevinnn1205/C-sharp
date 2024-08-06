@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\ejemplo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{852D564C-1AB0-4F82-B21D-84B2B43C3645}|polimorfismo\\polimorfismo.csproj|c:\\users\\sena\\documents\\ejemplo\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852D564C-1AB0-4F82-B21D-84B2B43C3645}|polimorfismo\\polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC7F626-D90C-4EEC-9068-362A95E7230A}|Dependencyinversion\\Dependencyinversion.csproj|c:\\users\\sena\\documents\\ejemplo\\dependencyinversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC7F626-D90C-4EEC-9068-362A95E7230A}|Dependencyinversion\\Dependencyinversion.csproj|solutionrelative:dependencyinversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44339626-A5B2-4E92-A4E0-367A1141718F}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\documents\\ejemplo\\abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44339626-A5B2-4E92-A4E0-367A1141718F}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}|interfaceSegregation\\interfaceSegregation.csproj|c:\\users\\sena\\documents\\ejemplo\\interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}|interfaceSegregation\\interfaceSegregation.csproj|solutionrelative:interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97889498-B9C0-4743-805B-BDB463C6764E}|interfaces_clases\\interfaces_clases.csproj|c:\\users\\sena\\documents\\ejemplo\\interfaces_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97889498-B9C0-4743-805B-BDB463C6764E}|interfaces_clases\\interfaces_clases.csproj|solutionrelative:interfaces_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}|LiskovSubsitution\\LiskovSubsitution.csproj|c:\\users\\sena\\documents\\ejemplo\\liskovsubsitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}|LiskovSubsitution\\LiskovSubsitution.csproj|solutionrelative:liskovsubsitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}|Open_closed\\Open_closed.csproj|c:\\users\\sena\\documents\\ejemplo\\open_closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}|Open_closed\\Open_closed.csproj|solutionrelative:open_closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97702E0A-399E-45BB-AF3E-C6648F5BB593}|single_responsability\\single_responsability.csproj|c:\\users\\sena\\documents\\ejemplo\\single_responsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97702E0A-399E-45BB-AF3E-C6648F5BB593}|single_responsability\\single_responsability.csproj|solutionrelative:single_responsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F52DD4B0-D172-4B22-9C31-E38ABAD3C464}|encasuplamiento\\encasuplamiento.csproj|c:\\users\\sena\\documents\\ejemplo\\encasuplamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,50 +40,76 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\polimorfismo\\Program.cs",
-              "RelativeDocumentMoniker": "polimorfismo\\Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\polimorfismo\\Program.cs*",
-              "RelativeToolTip": "polimorfismo\\Program.cs*",
-              "ViewState": "AQIAACIAAAAAAAAAAAAYwA4AAAAnAAAA",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\Dependencyinversion\\Program.cs",
+              "RelativeDocumentMoniker": "Dependencyinversion\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\Dependencyinversion\\Program.cs",
+              "RelativeToolTip": "Dependencyinversion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T22:23:59.753Z",
+              "WhenOpened": "2024-08-06T21:45:57.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\Abstraccion\\Program.cs",
-              "RelativeDocumentMoniker": "Abstraccion\\Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\Abstraccion\\Program.cs",
-              "RelativeToolTip": "Abstraccion\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\interfaceSegregation\\Program.cs",
+              "RelativeDocumentMoniker": "interfaceSegregation\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\interfaceSegregation\\Program.cs",
+              "RelativeToolTip": "interfaceSegregation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T22:05:31.383Z",
+              "WhenOpened": "2024-08-06T21:25:23.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\interfaces_clases\\Program.cs",
-              "RelativeDocumentMoniker": "interfaces_clases\\Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\interfaces_clases\\Program.cs",
-              "RelativeToolTip": "interfaces_clases\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAhAAAA",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\LiskovSubsitution\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubsitution\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\LiskovSubsitution\\Program.cs",
+              "RelativeToolTip": "LiskovSubsitution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T21:51:08.947Z",
+              "WhenOpened": "2024-08-06T20:48:47.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\Open_closed\\Program.cs",
+              "RelativeDocumentMoniker": "Open_closed\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\Open_closed\\Program.cs",
+              "RelativeToolTip": "Open_closed\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:38:37.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\single_responsability\\Program.cs",
+              "RelativeDocumentMoniker": "single_responsability\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\single_responsability\\Program.cs",
+              "RelativeToolTip": "single_responsability\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:53:32.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Documents\\ejemplo\\encasuplamiento\\Program.cs",
               "RelativeDocumentMoniker": "encasuplamiento\\Program.cs",
               "ToolTip": "C:\\Users\\SENA\\Documents\\ejemplo\\encasuplamiento\\Program.cs",
               "RelativeToolTip": "encasuplamiento\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T17:32:41.122Z",
               "EditorCaption": ""

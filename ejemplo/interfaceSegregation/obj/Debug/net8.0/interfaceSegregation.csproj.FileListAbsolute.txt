@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\bin\Debug\net8.0\interfaceSegregation.exe
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\bin\Debug\net8.0\interfaceSegregation.deps.json
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\bin\Debug\net8.0\interfaceSegregation.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\bin\Debug\net8.0\interfaceSegregation.dll
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\bin\Debug\net8.0\interfaceSegregation.pdb
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.dll
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\refint\interfaceSegregation.dll
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.pdb
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\interfaceSegregation.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\interfaceSegregation\obj\Debug\net8.0\ref\interfaceSegregation.dll

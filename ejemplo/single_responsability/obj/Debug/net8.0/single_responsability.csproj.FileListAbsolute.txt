@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\single_responsability\bin\Debug\net8.0\single_responsability.exe
+C:\Users\SENA\Documents\ejemplo\single_responsability\bin\Debug\net8.0\single_responsability.deps.json
+C:\Users\SENA\Documents\ejemplo\single_responsability\bin\Debug\net8.0\single_responsability.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\single_responsability\bin\Debug\net8.0\single_responsability.dll
+C:\Users\SENA\Documents\ejemplo\single_responsability\bin\Debug\net8.0\single_responsability.pdb
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.dll
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\refint\single_responsability.dll
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.pdb
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\single_responsability.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\single_responsability\obj\Debug\net8.0\ref\single_responsability.dll

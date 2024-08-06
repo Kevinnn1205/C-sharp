@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\bin\Debug\net8.0\LiskovSubsitution.exe
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\bin\Debug\net8.0\LiskovSubsitution.deps.json
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\bin\Debug\net8.0\LiskovSubsitution.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\bin\Debug\net8.0\LiskovSubsitution.dll
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\bin\Debug\net8.0\LiskovSubsitution.pdb
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.dll
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\refint\LiskovSubsitution.dll
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.pdb
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\LiskovSubsitution.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\LiskovSubsitution\obj\Debug\net8.0\ref\LiskovSubsitution.dll

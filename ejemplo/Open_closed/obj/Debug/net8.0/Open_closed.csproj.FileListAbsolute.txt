@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\ejemplo\Open_closed\bin\Debug\net8.0\Open_closed.exe
+C:\Users\SENA\Documents\ejemplo\Open_closed\bin\Debug\net8.0\Open_closed.deps.json
+C:\Users\SENA\Documents\ejemplo\Open_closed\bin\Debug\net8.0\Open_closed.runtimeconfig.json
+C:\Users\SENA\Documents\ejemplo\Open_closed\bin\Debug\net8.0\Open_closed.dll
+C:\Users\SENA\Documents\ejemplo\Open_closed\bin\Debug\net8.0\Open_closed.pdb
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.dll
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\refint\Open_closed.dll
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.pdb
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\Open_closed.genruntimeconfig.cache
+C:\Users\SENA\Documents\ejemplo\Open_closed\obj\Debug\net8.0\ref\Open_closed.dll

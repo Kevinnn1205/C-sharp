@@ -1,0 +1,4 @@
+C:\Users\SENA\Documents\ejemplo\Dependencyinversion\obj\Debug\net8.0\Dependencyinversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ejemplo\Dependencyinversion\obj\Debug\net8.0\Dependencyinversion.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ejemplo\Dependencyinversion\obj\Debug\net8.0\Dependencyinversion.AssemblyInfo.cs
+C:\Users\SENA\Documents\ejemplo\Dependencyinversion\obj\Debug\net8.0\Dependencyinversion.csproj.CoreCompileInputs.cache

@@ -36,7 +36,7 @@ public class Program
         // Crear una clase de Coche
         Coche miCoche = new Coche();
 
-        // Establecer propiedades
+        // aca establecemos las propiedades
         miCoche.Marca = "Toyota";
         miCoche.Modelo = "Fortuner";
         miCoche.Año = 2020;

@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encasuplamiento", "encasuplamiento\encasuplamiento.csproj", "{F52DD4B0-D172-4B22-9C31-E38ABAD3C464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encasuplamiento", "encasuplamiento\encasuplamiento.csproj", "{F52DD4B0-D172-4B22-9C31-E38ABAD3C464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces_clases", "interfaces_clases\interfaces_clases.csproj", "{97889498-B9C0-4743-805B-BDB463C6764E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interfaces_clases", "interfaces_clases\interfaces_clases.csproj", "{97889498-B9C0-4743-805B-BDB463C6764E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{44339626-A5B2-4E92-A4E0-367A1141718F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{44339626-A5B2-4E92-A4E0-367A1141718F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polimorfismo", "polimorfismo\polimorfismo.csproj", "{852D564C-1AB0-4F82-B21D-84B2B43C3645}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polimorfismo", "polimorfismo\polimorfismo.csproj", "{852D564C-1AB0-4F82-B21D-84B2B43C3645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "single_responsability", "single_responsability\single_responsability.csproj", "{97702E0A-399E-45BB-AF3E-C6648F5BB593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_closed", "Open_closed\Open_closed.csproj", "{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubsitution", "LiskovSubsitution\LiskovSubsitution.csproj", "{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaceSegregation", "interfaceSegregation\interfaceSegregation.csproj", "{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependencyinversion", "Dependencyinversion\Dependencyinversion.csproj", "{8EC7F626-D90C-4EEC-9068-362A95E7230A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{852D564C-1AB0-4F82-B21D-84B2B43C3645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852D564C-1AB0-4F82-B21D-84B2B43C3645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852D564C-1AB0-4F82-B21D-84B2B43C3645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97702E0A-399E-45BB-AF3E-C6648F5BB593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97702E0A-399E-45BB-AF3E-C6648F5BB593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97702E0A-399E-45BB-AF3E-C6648F5BB593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97702E0A-399E-45BB-AF3E-C6648F5BB593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2764FD6F-E9FB-427B-98F8-9AA1A620A30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CB7DBE-25D6-4B9A-A391-C2DBBB68008E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACCE41D-2BD2-4AF3-BA02-0E9BA710DFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC7F626-D90C-4EEC-9068-362A95E7230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC7F626-D90C-4EEC-9068-362A95E7230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC7F626-D90C-4EEC-9068-362A95E7230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC7F626-D90C-4EEC-9068-362A95E7230A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
